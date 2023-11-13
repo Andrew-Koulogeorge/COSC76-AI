@@ -1,0 +1,2 @@
+# Andrew Koulogeorge | Dartmouth College | Fall 2023 
+Implemented a general algorithm for solving problems that can be framed as a CSP. See problem file main methods for test cases and report.md for explanation of the code.
